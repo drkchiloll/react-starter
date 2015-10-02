@@ -1,0 +1,26 @@
+{
+  "name": "react-starter",
+  "version": "1.0.0",
+  "description": "A React WebApp Starter Pack using Gulp, Browserify, and others",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sam Womack",
+  "license": "ISC",
+  "dependencies": {
+    "node-notifier": "^4.2.1",
+    "react": "^0.13.3"
+  },
+  "devDependencies": {
+    "browserify": "^9.0.3",
+    "gulp": "^3.8.11",
+    "gulp-concat": "^2.5.2",
+    "gulp-server-livereload": "^1.3.0",
+    "gulp-util": "^3.0.4",
+    "gulp-watch": "^4.2.4",
+    "reactify": "^1.1.0",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^2.4.0"
+  }
+}
